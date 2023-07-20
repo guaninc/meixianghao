@@ -1,0 +1,29 @@
+.nav{
+    height: 666px;
+}
+.nav img{
+    width: 100%;
+    height: 100%;
+}
+.news{
+    height: 30px;
+    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+    font-size: 12px;
+    line-height: 30px;
+    background-color: #fbfbfb;
+}
+.news span{
+    font-weight: 600;
+    margin-right: 2em;
+}
+.img{
+    float: right;
+    height: 16px;
+    margin-left: 6px;
+    margin-top: 6px;
+}
+.img img{
+    height: 100%;
+    vertical-align: top;
+}

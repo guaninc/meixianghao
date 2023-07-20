@@ -1,0 +1,17 @@
+.title{
+    height: 55px;
+    background: url(../images/nav_bg.png);
+}
+.title ul{
+    display: flex;
+}
+.title li{
+    height: 55px;
+    width: 130px;
+    line-height: 55px;
+    text-align: center;
+    color: #000;
+    font-size: 13px;
+    border-right: 1px solid #f0f0f0;
+    font-weight: 600;
+}
